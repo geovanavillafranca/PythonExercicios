@@ -1,0 +1,1 @@
+print('Qual o preco do produto, quanto fica o desconto pagando a vista e quanto fica pagando parcelado')
